@@ -1,5 +1,5 @@
 # bot
-This is a python bot
+This is a python bot for socios online contest 
 
 
 REQURIMENTS :
@@ -8,6 +8,7 @@ REQURIMENTS :
 2. Python
 3. Chrome Browser
 4. Internet 
+5. Selenium
 
 How to run
 
